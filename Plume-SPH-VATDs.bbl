@@ -1,0 +1,303 @@
+\begin{thebibliography}{39}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Avdyushin et~al.(1993)Avdyushin, Tulinov, Ivanov, Kuzmenko, Mezhuev,
+  Nardi, Hauchecorne, and Chanin]{avdyushin19931}
+SI~Avdyushin, GF~Tulinov, MS~Ivanov, BN~Kuzmenko, IR~Mezhuev, B~Nardi,
+  A~Hauchecorne, and M-L Chanin.
+\newblock 1. spatial and temporal evolution of the optical thickness of the
+  pinatubo aerosol cloud in the northern hemisphere from a network of
+  ship-borne and stationary lidars.
+\newblock \emph{Geophysical research letters}, 20\penalty0 (18):\penalty0
+  1963--1966, 1993.
+
+\bibitem[Bursik(2001)]{bursik2001effect}
+M~Bursik.
+\newblock Effect of wind on the rise height of volcanic plumes.
+\newblock \emph{Geophys. Res. Lett}, 28\penalty0 (18):\penalty0 3621--3624,
+  2001.
+
+\bibitem[Bursik et~al.(2012)Bursik, Jones, Carn, Dean, Patra, Pavolonis,
+  Pitman, Singh, Singla, Webley, et~al.]{bursik2012estimation}
+Marcus Bursik, Matthew Jones, Simon Carn, Ken Dean, Abani Patra, Michael
+  Pavolonis, E~Bruce Pitman, Tarunraj Singh, Puneet Singla, Peter Webley,
+  et~al.
+\newblock Estimation and propagation of volcanic source parameter uncertainty
+  in an ash transport and dispersal model: application to the eyjafjallajokull
+  plume of 14--16 april 2010.
+\newblock \emph{Bulletin of volcanology}, 74\penalty0 (10):\penalty0
+  2321--2338, 2012.
+
+\bibitem[Cao et~al.(2017)Cao, Patra, Bursik, Pitman, and Jones]{gmd-2017-119}
+Z.~Cao, A.~Patra, M.~Bursik, E.~B. Pitman, and M.~Jones.
+\newblock Plume-sph 1.0: A three-dimensional, dusty-gas volcanic plume model
+  based on smoothed particle hydrodynamics.
+\newblock \emph{Geoscientific Model Development Discussions}, 2017:\penalty0
+  1--37, 2017.
+\newblock \doi{10.5194/gmd-2017-119}.
+\newblock URL \url{https://www.geosci-model-dev-discuss.net/gmd-2017-119/}.
+
+\bibitem[Cerminara et~al.(2016)Cerminara, Esposti~Ongaro, and
+  Berselli]{cerminara2016ashee}
+M~Cerminara, Thmaso Esposti~Ongaro, and LC~Berselli.
+\newblock Ashee-1.0: a compressible, equilibrium-eulerian model for volcanic
+  ash plumes.
+\newblock \emph{Geoscientific Model Development}, 9\penalty0 (2):\penalty0
+  697--730, 2016.
+
+\bibitem[Compo et~al.(2006)Compo, Whitaker, and
+  Sardeshmukh]{compo2006feasibility}
+Gilbert~P Compo, Jeffrey~S Whitaker, and Prashant~D Sardeshmukh.
+\newblock Feasibility of a 100-year reanalysis using only surface pressure
+  data.
+\newblock \emph{Bulletin of the American Meteorological Society}, 87\penalty0
+  (2):\penalty0 175--190, 2006.
+
+\bibitem[Compo et~al.(2011)Compo, Whitaker, Sardeshmukh, Matsui, Allan, Yin,
+  Gleason, Vose, Rutledge, Bessemoulin, et~al.]{compo2011twentieth}
+Gilbert~P Compo, Jeffrey~S Whitaker, Prashant~D Sardeshmukh, Nobuki Matsui,
+  Robert~J Allan, Xungang Yin, Byron~E Gleason, Russell~S Vose, Glenn Rutledge,
+  Pierre Bessemoulin, et~al.
+\newblock The twentieth century reanalysis project.
+\newblock \emph{Quarterly Journal of the Royal Meteorological Society},
+  137\penalty0 (654):\penalty0 1--28, 2011.
+
+\bibitem[Costa et~al.(2016)Costa, Suzuki, Cerminara, Devenish, Esposti~Ongaro,
+  Herzog, Van~Eaton, Denby, Bursik, de' Michieli~Vitturi,
+  et~al.]{costa2016results}
+A~Costa, YJ~Suzuki, M~Cerminara, BJ~Devenish, Thmaso Esposti~Ongaro, M~Herzog,
+  AR~Van~Eaton, LC~Denby, M~Bursik, Mattia de' Michieli~Vitturi, et~al.
+\newblock Results of the eruptive column model inter-comparison study.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 2016.
+
+\bibitem[DeFoor et~al.(1992)DeFoor, Robinson, and Ryan]{defoor1992early}
+Thomas~E DeFoor, Elmer Robinson, and Steven Ryan.
+\newblock Early lidar observations of the june 1991 pinatubo eruption plume at
+  mauna loa observatory, hawaii.
+\newblock \emph{Geophysical research letters}, 19\penalty0 (2):\penalty0
+  187--190, 1992.
+
+\bibitem[Degruyter and Bonadonna(2012)]{degruyter2012improving}
+Wim Degruyter and Costanza Bonadonna.
+\newblock Improving on mass flow rate estimates of volcanic eruptions.
+\newblock \emph{Geophysical Research Letters}, 39\penalty0 (16), 2012.
+
+\bibitem[de'Michieli Vitturi et~al.(2015)de'Michieli Vitturi, Neri, and
+  Barsotti]{de2015plume}
+M~de'Michieli Vitturi, Augusto Neri, and Sara Barsotti.
+\newblock Plume-mom 1.0: A new integral model of volcanic plumes based on the
+  method of moments.
+\newblock \emph{Geoscientific Model Development}, 8\penalty0 (8):\penalty0
+  2447--2463, 2015.
+
+\bibitem[Deshler et~al.(1992)Deshler, Hofmann, Johnson, and
+  Rozier]{deshler1992balloonborne}
+T~Deshler, DJ~Hofmann, BJ~Johnson, and WR~Rozier.
+\newblock Balloonborne measurements of the pinatubo aerosol size distribution
+  and volatility at laramie, wyoming during the summer of 1991.
+\newblock \emph{Geophysical research letters}, 19\penalty0 (2):\penalty0
+  199--202, 1992.
+
+\bibitem[Devenish(2013)]{devenish2013using}
+BJ~Devenish.
+\newblock Using simple plume models to refine the source mass flux of volcanic
+  eruptions according to atmospheric conditions.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 256:\penalty0
+  118--127, 2013.
+
+\bibitem[Fero et~al.(2008)Fero, Carey, and Merrill]{fero2008simulation}
+Julie Fero, Steven~N Carey, and John~T Merrill.
+\newblock Simulation of the 1980 eruption of mount st. helens using the
+  ash-tracking model puff.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 175\penalty0
+  (3):\penalty0 355--366, 2008.
+
+\bibitem[Fero et~al.(2009)Fero, Carey, and Merrill]{fero2009simulating}
+Julie Fero, Steven~N Carey, and John~T Merrill.
+\newblock Simulating the dispersal of tephra from the 1991 pinatubo eruption:
+  implications for the formation of widespread ash layers.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 186\penalty0
+  (1):\penalty0 120--131, 2009.
+
+\bibitem[Folch et~al.(2016)Folch, Costa, and Macedonio]{folch2016fplume}
+Arnau Folch, Antonio Costa, and Giovannin Macedonio.
+\newblock Fplume-1.0: An integral volcanic plume model accounting for ash
+  aggregation.
+\newblock \emph{Geoscientific Model Development}, 9\penalty0 (1):\penalty0 431,
+  2016.
+
+\bibitem[Guo et~al.(2004{\natexlab{a}})Guo, Bluth, Rose, Watson, and
+  Prata]{guo2004re}
+Song Guo, Gregg~JS Bluth, William~I Rose, I~Matthew Watson, and AJ~Prata.
+\newblock Re-evaluation of so2 release of the 15 june 1991 pinatubo eruption
+  using ultraviolet and infrared satellite sensors.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 5\penalty0 (4),
+  2004{\natexlab{a}}.
+
+\bibitem[Guo et~al.(2004{\natexlab{b}})Guo, Rose, Bluth, and
+  Watson]{guo2004particles}
+Song Guo, William~I Rose, Gregg~JS Bluth, and I~Matthew Watson.
+\newblock Particles in the great pinatubo volcanic cloud of june 1991: The role
+  of ice.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 5\penalty0 (5),
+  2004{\natexlab{b}}.
+
+\bibitem[Holasek et~al.(1996{\natexlab{a}})Holasek, Self, and
+  Woods]{holasek1996satellite}
+RE~Holasek, S~Self, and AW~Woods.
+\newblock Satellite observations and interpretation of the 1991 mount pinatubo
+  eruption plumes.
+\newblock \emph{Journal of Geophysical Research: Solid Earth}, 101\penalty0
+  (B12):\penalty0 27635--27655, 1996{\natexlab{a}}.
+
+\bibitem[Holasek et~al.(1996{\natexlab{b}})Holasek, Woods, and
+  Self]{holasek1996experiments}
+Rick~E Holasek, Andrew~W Woods, and Stephen Self.
+\newblock Experiments on gas-ash separation processes in volcanic umbrella
+  plumes.
+\newblock \emph{Journal of volcanology and geothermal research}, 70\penalty0
+  (3-4):\penalty0 169--181, 1996{\natexlab{b}}.
+
+\bibitem[J{\"a}ger(1992)]{jager1992pinatubo}
+H~J{\"a}ger.
+\newblock The pinatubo eruption cloud observed by lidar at
+  garmisch-partenkirchen.
+\newblock \emph{Geophysical research letters}, 19\penalty0 (2):\penalty0
+  191--194, 1992.
+
+\bibitem[Mastin(2007)]{mastin2007user}
+Larry~G Mastin.
+\newblock A user-friendly one-dimensional model for wet volcanic plumes.
+\newblock \emph{Geochemistry, Geophysics, Geosystems}, 8\penalty0 (3), 2007.
+
+\bibitem[Neri et~al.(2003)Neri, Esposti~Ongaro, Macedonio, and
+  Gidaspow]{neri2003multiparticle}
+Augusto Neri, Thmaso Esposti~Ongaro, Giovanni Macedonio, and Dimitri Gidaspow.
+\newblock Multiparticle simulation of collapsing volcanic columns and
+  pyroclastic flow.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  108\penalty0 (B4), 2003.
+
+\bibitem[Oberhuber et~al.(1998)Oberhuber, Herzog, Graf, and
+  Schwanke]{oberhuber1998volcanic}
+Josef~M Oberhuber, Michael Herzog, Hans-F Graf, and Karsten Schwanke.
+\newblock Volcanic plume simulation on large scales.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 87\penalty0
+  (1):\penalty0 29--53, 1998.
+
+\bibitem[Paladio-Melosantos et~al.(1996)Paladio-Melosantos, Solidum, Scott,
+  Quiambao, Umbal, Rodolfo, Tubianosa, Delos~Reyes, Alonso, and
+  Ruelo]{paladio1996tephra}
+Ma~Lynn~O Paladio-Melosantos, Renato~U Solidum, William~E Scott, Rowena~B
+  Quiambao, Jesse~V Umbal, Kelvin~S Rodolfo, Bella~S Tubianosa, PJ~Delos~Reyes,
+  Rosalito~A Alonso, and Hernulfo~B Ruelo.
+\newblock Tephra falls of the 1991 eruptions of mount pinatubo.
+\newblock \emph{Fire and mud}, 12000:\penalty0 12030, 1996.
+
+\bibitem[Pouget et~al.(2016)Pouget, Bursik, Singla, and
+  Singh]{pouget2016sensitivity}
+S~Pouget, M~Bursik, P~Singla, and T~Singh.
+\newblock Sensitivity analysis of a one-dimensional model of a volcanic plume
+  with particle fallout and collapse behavior.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 2016.
+
+\bibitem[Schwaiger et~al.(2012)Schwaiger, Denlinger, and
+  Mastin]{schwaiger2012ash3d}
+Hans~F Schwaiger, Roger~P Denlinger, and Larry~G Mastin.
+\newblock Ash3d: A finite-volume, conservative numerical model for ash
+  transport and tephra deposition.
+\newblock \emph{Journal of Geophysical Research: Solid Earth}, 117\penalty0
+  (B4), 2012.
+
+\bibitem[Scott et~al.(1996)Scott, Hoblitt, Torres, Self, Martinez, and
+  Nillos]{scott1996pyroclastic}
+William~E Scott, Richard~P Hoblitt, Ronnie~C Torres, Stephen Self, Ma~Mylene~L
+  Martinez, and T~Nillos.
+\newblock Pyroclastic flows of the june 15, 1991, climactic eruption of mount
+  pinatubo.
+\newblock \emph{Fire and Mud: eruptions and lahars of Mount Pinatubo,
+  Philippines}, pages 545--570, 1996.
+
+\bibitem[Searcy et~al.(1998)Searcy, Dean, and Stringer]{searcy1998puff}
+C~Searcy, KG~Dean, and W~Stringer.
+\newblock Puff: A volcanic ash tracking and prediction model.
+\newblock \emph{Journal of Volcanology and Geothermal Research}, 80:\penalty0
+  1--16, 1998.
+
+\bibitem[Self et~al.(1996)Self, Zhao, Holasek, Torres, and
+  King]{self1993atmospheric}
+Stephen Self, Jing-Xia Zhao, Rick~E Holasek, Ronnie~C Torres, and Alan~J King.
+\newblock The atmospheric impact of the 1991 mount pinatubo eruption.
+\newblock 1996.
+
+\bibitem[Stefanescu et~al.(2014)Stefanescu, Patra, Bursik, Madankan, Pouget,
+  Jones, Singla, Singh, Pitman, Pavolonis, et~al.]{stefanescu2014temporal}
+ER~Stefanescu, AK~Patra, MI~Bursik, R~Madankan, S~Pouget, M~Jones, P~Singla,
+  T~Singh, EB~Pitman, M~Pavolonis, et~al.
+\newblock Temporal, probabilistic mapping of ash clouds using wind field
+  stochastic variability and uncertain eruption source parameters: Example of
+  the 14 april 2010 eyjafjallaj{\"o}kull eruption.
+\newblock \emph{Journal of Advances in Modeling Earth Systems}, 6\penalty0
+  (4):\penalty0 1173--1184, 2014.
+
+\bibitem[Suzuki et~al.(1983)]{suzuki1983theoretical}
+Takeo Suzuki et~al.
+\newblock A theoretical model for dispersion of tephra.
+\newblock \emph{Arc volcanism: physics and tectonics}, 95:\penalty0 113, 1983.
+
+\bibitem[Suzuki and Koyaguchi(2009)]{suzuki2009three}
+YJ~Suzuki and T~Koyaguchi.
+\newblock A three-dimensional numerical simulation of spreading umbrella
+  clouds.
+\newblock \emph{Journal of Geophysical Research: Solid Earth (1978--2012)},
+  114\penalty0 (B3), 2009.
+
+\bibitem[Suzuki et~al.(2005)Suzuki, Koyaguchi, Ogawa, and
+  Hachisu]{suzuki2005numerical}
+Yujiro~J Suzuki, Takehiro Koyaguchi, Masaki Ogawa, and Izumi Hachisu.
+\newblock A numerical study of turbulent mixing in eruption clouds using a
+  three-dimensional fluid dynamics model.
+\newblock \emph{Journal of Geophysical Research: Solid Earth}, 110\penalty0
+  (B8), 2005.
+
+\bibitem[Tanaka(1991)]{tanaka1991development}
+HL~Tanaka.
+\newblock Development of a prediction scheme for the volcanic ash fall from
+  redoubt volcano.
+\newblock In \emph{First Int'l. Symp. on Volcanic Ash and Aviation Safety},
+  volume~58, 1991.
+
+\bibitem[Whitaker et~al.(2004)Whitaker, Compo, Wei, and
+  Hamill]{whitaker2004reanalysis}
+Jeffrey~S Whitaker, Gilbert~P Compo, Xue Wei, and Thomas~M Hamill.
+\newblock Reanalysis without radiosondes using ensemble data assimilation.
+\newblock \emph{Monthly Weather Review}, 132\penalty0 (5):\penalty0 1190--1200,
+  2004.
+
+\bibitem[Witham et~al.(2007)Witham, Hort, Potts, Servranckx, Husson, and
+  Bonnardot]{witham2007comparison}
+CS~Witham, MC~Hort, R~Potts, R~Servranckx, P~Husson, and F~Bonnardot.
+\newblock Comparison of vaac atmospheric dispersion models using the 1 november
+  2004 grimsv{\"o}tn eruption.
+\newblock \emph{Meteorological Applications}, 14\penalty0 (1):\penalty0 27--38,
+  2007.
+
+\bibitem[Woodhouse et~al.(2013)Woodhouse, Hogg, Phillips, and
+  Sparks]{woodhouse2013interaction}
+MJ~Woodhouse, AJ~Hogg, JC~Phillips, and RSJ Sparks.
+\newblock Interaction between volcanic plumes and wind during the 2010
+  eyjafjallaj{\"o}kull eruption, iceland.
+\newblock \emph{Journal of Geophysical Research: Solid Earth}, 118\penalty0
+  (1):\penalty0 92--109, 2013.
+
+\bibitem[Woods(1988)]{woods1988fluid}
+AW~Woods.
+\newblock The fluid dynamics and thermodynamics of eruption columns.
+\newblock \emph{Bulletin of Volcanology}, 50\penalty0 (3):\penalty0 169--193,
+  1988.
+
+\end{thebibliography}
